@@ -6,6 +6,16 @@ Built for personal use for me and a couple of friends. Not monetized and not pub
 
 Saved to GitHub on October 13, 2026 in its current state, as-is.
 
+## Demo
+
+44-second walkthrough on a real iPhone: playing a downloaded track, the Download and Library tabs, and the Style tab (glossy/matte finish, accent and button colors, home backgrounds), all while the music keeps playing in the mini player.
+
+https://github.com/user-attachments/assets/ea209d6c-e8e4-408c-8285-426e9290726d
+
+Player not loading? The same clip lives in this repo at [`docs/demo/dropwave-demo.mp4`](docs/demo/dropwave-demo.mp4).
+
+<a href="docs/demo/dropwave-demo.mp4"><img src="docs/demo/dropwave-demo-poster.jpg" width="280" alt="DropWave player screen from the demo video" /></a>
+
 ## What it is
 
 - Expo / React Native app (Expo SDK 57, React 19, TypeScript) in `app/`
