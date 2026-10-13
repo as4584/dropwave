@@ -1,6 +1,8 @@
 # DropWave
 
-Personal-use, offline-first music app for Lex and a couple of friends. Not monetized, not published to an app store, and not publicly distributed.
+Offline-first personal music app, built with **Muse**. Published here as a portfolio showcase of the work, the same way I share my Claude and Codex builds.
+
+Built for personal use for me and a couple of friends. Not monetized and not published to an app store.
 
 Saved to GitHub on October 13, 2026 in its current state, as-is.
 
