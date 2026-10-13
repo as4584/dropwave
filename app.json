@@ -1,0 +1,53 @@
+{
+  "expo": {
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0b0b12"
+      },
+      "package": "com.lexmakesit.dropwave"
+    },
+    "extra": {
+      "apiUrl": "http://localhost:8001",
+      "router": {},
+      "eas": {
+        "projectId": "e26d27fd-7ae8-45d7-b9ee-1efbc7c16727"
+      }
+    },
+    "icon": "./assets/icon.png",
+    "ios": {
+      "infoPlist": {
+        "UIBackgroundModes": [
+          "audio"
+        ]
+      },
+      "supportsTablet": true,
+      "bundleIdentifier": "com.lexmakesit.dropwave"
+    },
+    "name": "DropWave",
+    "orientation": "portrait",
+    "plugins": [
+      "expo-router",
+      [
+        "expo-audio",
+        {
+          "enableBackgroundPlayback": true
+        }
+      ],
+      "expo-sqlite"
+    ],
+    "scheme": "dropwave",
+    "slug": "dropwave",
+    "splash": {
+      "backgroundColor": "#0b0b12"
+    },
+    "userInterfaceStyle": "dark",
+    "version": "1.0.0",
+    "owner": "lexmakesit",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/e26d27fd-7ae8-45d7-b9ee-1efbc7c16727"
+    }
+  }
+}

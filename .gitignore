@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# Expo / React Native build output
+.expo/
+dist/
+web-build/
+*.log
+
+# Python backend
+backend/venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+backend/.pytest_cache/
+
+# Runtime / generated data
+backend/match-cache.json
+dropwave-*.png
+
+# Local backups and secrets
+*.bak
+.env
+.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision

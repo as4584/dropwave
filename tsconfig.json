@@ -1,0 +1,1 @@
+{"compilerOptions":{"strict":true},"exclude":["**/__tests__/**"],"extends":"expo/tsconfig.base"}
